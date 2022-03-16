@@ -1,0 +1,3 @@
+[submodule "Adder"]
+	path = Adder
+	url = https://github.com/zamanski/Adder.git
