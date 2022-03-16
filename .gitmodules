@@ -1,3 +1,6 @@
 [submodule "Adder"]
 	path = Adder
 	url = https://github.com/zamanski/Adder.git
+[submodule "Subtractor"]
+	path = Subtractor
+	url = https://github.com/zamanski/Subtractor.git
